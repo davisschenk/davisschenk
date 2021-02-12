@@ -1,16 +1,20 @@
-### Hi there 👋
+# Davis Schenkenberger
+Welcome to my profile! My name is Davis Schenkenberger, a computer science student and developer!
 
-<!--
-**davisschenk/davisschenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- Python
+- Flutter/Dart
+- Java
+- C / C++
 
-Here are some ideas to get you started:
+## How to reach me
+Feel free to reach out to collaborate or if you need any dev work done
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[![Instagram Badge](https://img.shields.io/badge/-schenkenberger_davis-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/schenkenberger_davis/)](https://www.instagram.com/schenkenberger_davis/)
+[![Gmail Badge](https://img.shields.io/badge/-davisschenk@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davisschenk@gmail.com)](mailto:davisschenk@gmail.com)
+
+
+
+
