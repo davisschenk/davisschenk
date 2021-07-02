@@ -2,10 +2,19 @@
 Welcome to my profile! My name is Davis Schenkenberger, a computer science student and developer!
 
 ## Skills
-- Python
-- Flutter/Dart
-- Java
-- C / C++
+- Programming
+  - Python
+  - Rust
+  - Flutter/Dart
+  - Java
+  - C / C++
+- Analytical thinking
+- Problem Solving
+- Cloud Platforms
+  - AWS
+  - Google Cloud
+- Linux/Windows Enviroments
+- GIT
 
 ## How to reach me
 Feel free to reach out to collaborate or if you need any dev work done
